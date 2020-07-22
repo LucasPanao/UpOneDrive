@@ -1,0 +1,2 @@
+https://graph.microsoft.com//v1.0/users/USER_ID/drives/DRIVE_ID/items/ITEM_ID:/up/1
+https://graph.microsoft.com//v1.0/users/USER_ID/drives/DRIVE_ID/items/ITEM_ID:/up/2

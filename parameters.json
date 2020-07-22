@@ -1,0 +1,7 @@
+{
+  "authority": "https://login.microsoftonline.com/SEU-TENANT-ID-AQUI",
+  "client_id": "SEU-CLIENT-ID-AQUI",
+  "scope": [ "https://graph.microsoft.com/.default" ],
+  "secret": "SEU-SECRET-ID-AQUI",
+  "endpoint": "https://graph.microsoft.com/v1.0/users/drive/item/createUploadSession"
+}
