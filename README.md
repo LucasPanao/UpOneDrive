@@ -30,7 +30,7 @@ Dentro do arquivo list_drive.txt devem ser colocados todos os links relacionados
 [URL_DRIVE_2]
 ```
 
-Dentro do arquivo list_folders.txt devem ser colocados os nomes das pastas que terão que subir dentro do diretório. Lembrando que deve estar alinhados a sequencia de usuários do list_drive.txt, pois cada pasta será designada a um usuário diferente(caso coloque outros usuários). 
+Dentro do arquivo list_folders.txt devem ser colocados os nomes das pastas que terão que subir para o OneDrive. Lembrando que deve estar alinhados a sequencia de usuários do list_drive.txt, pois cada pasta será designada a um usuário diferente(caso coloque outros usuários). 
 
 ```sh
 [NOME_PASTA_1]
